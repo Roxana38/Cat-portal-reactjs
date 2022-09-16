@@ -1,4 +1,4 @@
-# the-cat-api-portal-reactjs
+# Cat-api-portal-reactjs
 Cat pictures portal using thecatAPI and ReactJS / react-responsive-carousel / Styled-Components 
  
  - link here :  https://Roxana38.github.io/Cat-portal-reactjs/
